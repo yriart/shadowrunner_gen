@@ -1,3 +1,6 @@
+var React = require('react');
+var ReactDOM = require('react-dom');
+
 var rootElement =
     React.createElement('div', {},
         React.createElement('h1', {}, "Decker"),
